@@ -7,5 +7,5 @@ phases:
       - ./gradlew assembleDebug
 artifacts:
   files:
-     - './MyApplication/app/build/outputs/apk/debug/*.apk'
+     - './app/build/outputs/apk/debug/*.apk'
   discard-paths: yes
